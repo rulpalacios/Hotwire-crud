@@ -1,24 +1,3 @@
-# README
+# PREVIEW
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Jun-09-2023 3-18-52 p m](https://github.com/rulpalacios/Hotwire-crud/assets/12384199/e50d2813-b3a0-4117-9710-95f6fec1b81d)
